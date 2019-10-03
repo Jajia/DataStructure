@@ -1,4 +1,4 @@
-package SparseArray;
+package sparsearray;
 
 import java.io.*;
 
